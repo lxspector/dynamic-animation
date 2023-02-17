@@ -1,2 +1,2 @@
 # dynamic-animation
-The first day of Vladlen Mininin's Front-End Developer School marathon "Result School" https://result.school/products/marathon-js?fuid=273420360
+The fourth day of Vladlen Mininin's Front-End Developer School marathon "Result School" https://result.school/products/marathon-js?fuid=273420360
